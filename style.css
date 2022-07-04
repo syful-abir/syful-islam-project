@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Gulzar', serif;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    
+}
+.name{
+    color: orange;
+}
+.continer{
+    display: flex;
+    padding-left: 10%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.continer img{
+    width: 80%;
+    margin-top: 50px;
+}
+.continer .button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
